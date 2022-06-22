@@ -1,0 +1,28 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Curso Angular",
+      "validade": "2021-12-31",
+      "precoProduto": 550.54
+    },
+    {
+      "id": 2,
+      "nome": "Curso de Alemão",
+      "validade": "2022-12-31",
+      "precoProduto": 1920.33
+    },
+    {
+      "nome": "Viagem a Alemanha",
+      "validade": "2023-12-31",
+      "precoProduto": 1945,
+      "id": 3
+    },
+    {
+      "nome": "Viagem a Russia",
+      "validade": "2022-06-21",
+      "precoProduto": 20,
+      "id": 4
+    }
+  ]
+}
